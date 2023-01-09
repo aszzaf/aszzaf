@@ -8,8 +8,8 @@
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "lyuzyo",
-      "url": "https://twitter.com/lyuzyo"
+      "username": "aszzaf",
+      "url": "https://twitter.com/aszzaf"
     }]
   },
   "awards": [{
