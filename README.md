@@ -2,7 +2,7 @@
 {
   "basics": {
     "name": "Łukasz Majka",
-    "label": "Programmer",
+    "label": "Developer",
     "location": {
       "countryCode": "PL"
     },
