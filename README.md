@@ -26,7 +26,11 @@
     ]
   }],
   "languages": [{
-    "language": "Polish", "English", "Swedish"
+    "language": [
+       "Polish",
+       "English",
+       "Swedish"
+     ]
   }]
 }
 
